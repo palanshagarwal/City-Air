@@ -79,11 +79,11 @@ WSGI_APPLICATION = 'allauthdemo.wsgi.application'
 DATABASES = {
 'default': {
     'ENGINE': 'django.db.backends.mysql',
-    'NAME': 'sql687677',                    
-    'USER': 'sql687677',                    
-    'PASSWORD': 'iC3%sZ8%',                
-    'HOST': 'sql6.freemysqlhosting.net',                 
-    'PORT': '3306',                     
+    'NAME': '',                    
+    'USER': '',                    
+    'PASSWORD': '',                
+    'HOST': '',                 
+    'PORT': '',                     
     }
 }
 
